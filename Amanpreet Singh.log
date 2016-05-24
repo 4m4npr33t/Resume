@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2016.5.24)  24 MAY 2016 18:35
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2016.5.24)  24 MAY 2016 19:43
 entering extended mode
 **"C:/Users/Amanpreet Singh/resume/Amanpreet Singh.tex"
 ("C:/Users/Amanpreet Singh/resume/Amanpreet Singh.tex"
@@ -64,60 +64,73 @@ Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
 ))
 \Gin@req@height=\dimen103
 \Gin@req@width=\dimen104
+)
+("C:\Users\Amanpreet Singh\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tools\ar
+ray.sty"
+Package: array 2014/10/28 v2.4c Tabular extension package (FMi)
+\col@sep=\dimen105
+\extrarowheight=\dimen106
+\NC@list=\toks15
+\extratabsurround=\skip43
+\backup@length=\skip44
 ) ("Amanpreet Singh.aux")
 \openout1 = `"Amanpreet Singh.aux"'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
 
 ("C:\Users\Amanpreet Singh\AppData\Local\Programs\MiKTeX 2.9\tex\context\base\s
 upp-pdf.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count88
-\scratchdimen=\dimen105
+\scratchdimen=\dimen107
 \scratchbox=\box26
 \nofMPsegments=\count89
 \nofMParguments=\count90
-\everyMPshowfont=\toks15
+\everyMPshowfont=\toks16
 \MPscratchCnt=\count91
-\MPscratchDim=\dimen106
+\MPscratchDim=\dimen108
 \MPnumerator=\count92
 \makeMPintoPDFobject=\count93
-\everyMPtoPDFconversion=\toks16
+\everyMPtoPDFconversion=\toks17
 ) <./images/pic.jpg, id=1, 2364.835pt x 2987.16pt>
 File: ./images/pic.jpg Graphic file (type jpg)
  <use ./images/pic.jpg>
-Package pdftex.def Info: ./images/pic.jpg used on input line 22.
+Package pdftex.def Info: ./images/pic.jpg used on input line 32.
 (pdftex.def)             Requested size: 71.1224pt x 99.54744pt.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 52.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 52.
 
 [1
 
 {C:/Users/Amanpreet Singh/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <.
 /images/pic.jpg>] ("Amanpreet Singh.aux") ) 
 Here is how much of TeX's memory you used:
- 1109 strings out of 493634
- 15350 string characters out of 3131157
- 68400 words of memory out of 3000000
- 4542 multiletter control sequences out of 15000+200000
+ 1161 strings out of 493634
+ 16078 string characters out of 3131157
+ 71194 words of memory out of 3000000
+ 4591 multiletter control sequences out of 15000+200000
  4255 words of font info for 16 fonts, out of 3000000 for 9000
  1025 hyphenation exceptions out of 8191
- 27i,5n,19p,287b,261s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 27i,9n,19p,287b,263s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Users/Amanpreet Singh/AppData/Lo
 cal/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/Ama
 npreet Singh/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/c
 mbx12.pfb><C:/Users/Amanpreet Singh/AppData/Local/Programs/MiKTeX 2.9/fonts/typ
 e1/public/amsfonts/cm/cmr10.pfb>
-Output written on "Amanpreet Singh.pdf" (1 page, 377204 bytes).
+Output written on "Amanpreet Singh.pdf" (1 page, 381753 bytes).
 PDF statistics:
  19 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
